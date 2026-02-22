@@ -12,7 +12,15 @@ npm-debug.log
 yarn-error.log
 
 # IDEs and editors
+# WebStorm
 .idea/
+*.iml
+*.iws
+*.ipr
+.idea_modules/
+out/
+
+# General IDE files
 .project
 .classpath
 .c9/
